@@ -4,5 +4,5 @@
 
 #ifndef ASSIGNMENTS_LUVUT_H
 #define ASSIGNMENTS_LUVUT_H
-
+void luvut();
 #endif //ASSIGNMENTS_LUVUT_H

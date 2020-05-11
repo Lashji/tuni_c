@@ -6,3 +6,5 @@
 #define ASSIGNMENTS_ARVORAJAT_H
 
 #endif //ASSIGNMENTS_ARVORAJAT_H
+
+int arvorajat(int argc, char* argv[]);
